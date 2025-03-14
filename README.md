@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](http://valoxity.com/)
+[![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://bingforge.com/)
 <h1 align="center">Hi 👋, I'm Aminul Islam</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
 
@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/aminulislam2003" target="blank"><img src="https://img.shields.io/twitter/follow/aminulislam2003?logo=twitter&style=for-the-badge" alt="aminulislam2003" /></a> </p>
 
-- 🔭 I’m currently working on [ValoXity](http://valoxity.com/)
+- 🔭 I’m currently working on [bingforge](https://bingforge.com/)
 
-- 👯 I’m looking to collaborate on [ValoXity](http://valoxity.com/)
+- 👯 I’m looking to collaborate on [bingforge](https://bingforge.com/)
 
-- 👨‍💻 All of my projects are available at [http://valoxity.com/](http://valoxity.com/)
+- 👨‍💻 All of my projects are available at [https://bingforge.com/](https://bingforge.com/)
 
 - 💬 Ask me about **react ,java, javascript, php, mysqli**
 
 - 📫 How to reach me **alsheikhaminulislam@gmail.com**
 
-- 📄 Know about my experiences [http://valoxity.com/](http://valoxity.com/)
+- 📄 Know about my experiences [https://bingforge.com/](https://bingforge.com/)
 
 - ⚡ Fun fact **I think I am not funny**
 
