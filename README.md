@@ -1,17 +1,17 @@
-[![Header](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://aroxbyte.com)
+[![Header](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://OutGrave.com)
 
 <h1 align="center">Hi, I'm Aminul Islam</h1>
 <h3 align="center">Frontend & Full-Stack JavaScript Developer | SaaS Builder</h3>
 
 <p align="center">
-  Building scalable web products under <b>AroxByte</b><br/>
+  Building scalable web products under <b>OutGrave</b><br/>
   Focused on React, Node.js, Firebase & modern UI systems
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Founder & Developer at **AroxByte**
+- 🚀 Founder & Developer at **OutGrave**
 - 🧠 Building **SaaS platforms, dashboards, and digital marketplaces**
 - 🔧 Strong focus on **performance, UI/UX, and maintainability**
 - 🌍 Based in **Bangladesh**
@@ -21,7 +21,7 @@
 
 ### 🛠 Tech Stack (Core)
 **Frontend**
-- React.js, Vite.js, Tailwind CSS
+- React.js, Vite.js , Nextjs, Tailwind CSS
 - HTML5, CSS3, JavaScript (ES6+)
 
 **Backend**
@@ -50,16 +50,10 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
-<a href="https://twitter.com/aminulislam2003" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/>
-</a>
+<p align="left"> 
 <a href="https://linkedin.com/in/alsheikhaminulislam" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
-</a>
-<a href="https://instagram.com/alsheikhaminulislam" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
-</a>
+</a> 
 </p>
 
 ---
